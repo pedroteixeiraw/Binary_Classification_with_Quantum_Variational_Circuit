@@ -2,8 +2,7 @@
 
 ![Quantum Circuit and Graph](variational_circtuit_system.png)  
 
-This project focuses on developing a **Variational Quantum Circuit** capable of performing **Binary Classification** between two classes: **red wine** and **white wine**, based on their characteristics.  
-Our system consists of both quantum and classical components.  
+This project focuses on developing a **Variational Quantum Circuit** capable of performing **Binary Classification** between two classes: **red wine** and **white wine**, based on their characteristics. Our system consists of both quantum and classical components.  
 
 - **Quantum Component (Quantum Circuit):**  
   A block responsible for encoding/embedding, a block responsible for the variational algorithm, and measurement blocks.  
