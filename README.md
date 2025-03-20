@@ -11,4 +11,4 @@ Our system consists of both quantum and classical components.
 - **Classical Component:**  
   Post-processing (associating measurements with labels), loss function computation, and optimization of variational parameters (θ). In some cases, special classical preprocessing may also be necessary, such as dimensionality reduction of the dataset using PCA techniques.  
 
-**Python Stack:**  
+**Python Stack:**  qiskit, json, numpy, pandas, sklearn, itertools, matplotlib, qiskit_machine_learning, sys
