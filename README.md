@@ -1,6 +1,6 @@
 # Variational Quantum Circuit for Binary Classification  
 
-
+![System Schema](variational_circtuit_system.png)
 
 This project focuses on developing a **Variational Quantum Circuit** capable of performing **Binary Classification** between two classes: **red wine** and **white wine**, based on their characteristics using machine learning. Our system consists of both quantum and classical components.  
 
